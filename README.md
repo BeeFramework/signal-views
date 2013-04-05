@@ -11,11 +11,6 @@ signal-views
 ```
 {
 	"name":"GCurlPageView",
-	"version":"0.0.1",
-	"summary":"one of the most simple example for scrolling page. ",
-	"description":"one of the most simple example for scrolling page.",
-	"homepage":"https://github.com/gelosie/GCurlPageView-BeeUISignal",
-	"license":"MIT",
 	"author":
 	{
 		"name":"gelosie",
@@ -23,25 +18,17 @@ signal-views
 		"homepage":"http://zhenian.com/",
 		"github":"https://github.com/gelosie/"
 	},
-	"source":
-	{
-		"sccs":"git",
-		"url":"https://github.com/gelosie/GCurlPageView-BeeUISignal.git",
-		"files":["GCurlPageView/src/*.{h,m}"],
-		"arc":"yes",
-		"tag":""
-	},
-	"originsource":
-	{
-		"sccs":"git",
-		"url":"https://github.com/gelosie/GCurlPageView.git",
-		"files":[],
-		"arc":"yes",
-		"tag":""
-	},
+	"version":"0.0.1",
+	"summary":"one of the most simple example for scrolling page. ",
+	"description":"one of the most simple example for scrolling page.",
+	"homepage":"https://github.com/gelosie/GCurlPageView-BeeUISignal",
+	"license":"MIT",
+	"sccs":"git",
+	"url":"https://github.com/gelosie/GCurlPageView-BeeUISignal.git",
+	"tag":"",
 	"demo":["https://github.com/gelosie/GCurlPageView-BeeUISignal.git"],
-	"screenshots":["https://github.com/gelosie/GCurlPageView-BeeUISignal/blob/master/doc/screenshots/GCurlPageView.png?raw=true"],
-	"videos":[]
+	"screenshots":["https://github.com/gelosie/GCurlPageView-BeeUISignal/blob/master/doc/screenshots/GCurlPageView.png?raw=true"]
 }
+
 
 ```
