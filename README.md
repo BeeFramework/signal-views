@@ -26,7 +26,7 @@ signal-views
 	"sccs":"git",
 	"url":"https://github.com/gelosie/GCurlPageView-BeeUISignal.git",
 	"tag":"",
-	"demo":["https://github.com/gelosie/GCurlPageView-BeeUISignal.git"],
+	"demo":"https://github.com/gelosie/GCurlPageView-BeeUISignal.git",
 	"screenshots":["https://github.com/gelosie/GCurlPageView-BeeUISignal/blob/master/doc/screenshots/GCurlPageView.png?raw=true"]
 }
 
